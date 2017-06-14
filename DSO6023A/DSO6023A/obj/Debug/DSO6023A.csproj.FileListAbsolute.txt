@@ -1,0 +1,7 @@
+c:\users\marius\documents\visual studio 2013\Projects\DSO6023A\DSO6023A\bin\Debug\DSO6023A.exe.config
+c:\users\marius\documents\visual studio 2013\Projects\DSO6023A\DSO6023A\obj\Debug\DSO6023A.csprojResolveAssemblyReference.cache
+c:\users\marius\documents\visual studio 2013\Projects\DSO6023A\DSO6023A\obj\Debug\DSO6023A.csproj.ResolveComReference.cache
+c:\users\marius\documents\visual studio 2013\Projects\DSO6023A\DSO6023A\bin\Debug\DSO6023A.exe
+c:\users\marius\documents\visual studio 2013\Projects\DSO6023A\DSO6023A\bin\Debug\DSO6023A.pdb
+c:\users\marius\documents\visual studio 2013\Projects\DSO6023A\DSO6023A\obj\Debug\DSO6023A.exe
+c:\users\marius\documents\visual studio 2013\Projects\DSO6023A\DSO6023A\obj\Debug\DSO6023A.pdb
